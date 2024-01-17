@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Étudiant en informatique, 3e année<br><br>💡 Passionné par la programmation et les technologies.
+👨‍💻 Étudiant en informatique, à l'université de Bourgogne<br><br>💡 Passionné par la programmation et les technologies.
 
 
 # 💻 Tech Stack:
